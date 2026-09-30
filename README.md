@@ -1,13 +1,13 @@
 # Constanza Eltit Cruz · Senior Product Manager 
 
 **Building payment infrastructure for Chile & LatAm**  
-Past: Head of Products & Innovation @ [VirtualPOS] · Santiago, Chile 🇨🇱 · jun 2023 - dic 2025
+Present: Product Manager Transfers @ [Cleo] · Santiago, Chile 🇨🇱 · ago 2026 - now
 
 ---
 
 ## 🧭 Sobre mí
 
-Desarrollo productos digitales como SPM con foco en medios de pago, construyendo desde cero el stack de productos de Virtualpos: una plataforma que hoy procesa pagos para más de 5.000 empresas en Chile.
+Desarrollo productos digitales como SPM con foco en medios de pago, construyendo desde cero el stack de productos de distintas empresas. Estuve dos años y medio en Virtualpos: una plataforma que hoy procesa pagos para más de 5.000 empresas en Chile, construyendo su portafolios desde cero. Ahora soy Product Manager en Cleo, una paytech innovadora y con muchas ganas de seguir escalando.
 
 Mi visión es facilitar la intersección entre producto, tecnología y regulación: desde definir la UX de un checkout hasta diseñar la arquitectura de estados de un sistema de suscripciones con dunning logic, integraciones 3DS y liquidación D+1. Lidero los productos hasta que son lanzados al mercado y realizo las intros y capacitaciones con clientes.
 
