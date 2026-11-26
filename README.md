@@ -68,7 +68,6 @@ Tasa de conversión checkout       → 95%+ (Web Checkout)
 Tasa de conversión suscripciones  → 97%+ (PAT)
 Time to integrate (API)           → < 1 día para integradores
 Churn involuntario                → reducido con dunning logic
-Settlement                        → D+1 directo al comercio
 ```
 
 ---
