@@ -2,7 +2,7 @@
 
 > Frameworks y learnings de construir una pasarela de pagos desde cero en Chile.
 
-Este repositorio documenta mi forma de pensar producto en el contexto de medios de pago: decisiones de arquitectura, tradeoffs, anti-patrones y lo que aprendí construyendo los productos de [VirtualPOS](https://www.virtualpos.cl/).
+Este repositorio documenta mi forma de pensar producto en el contexto de medios de pago: decisiones de arquitectura, tradeoffs, anti-patrones y lo que aprendí construyendo los productos de [VirtualPOS](https://www.virtualpos.cl/) y otros PSP/PSI.
 
 No es un manual genérico. Es el destilado de construir desde cero Web Checkout, SmartPOS, Suscripciones, Portal de Pagos, Link de Pago, Quick Checkout y PIX.
 
