@@ -1,7 +1,7 @@
 # Constanza Eltit Cruz · Senior Product Manager 
 
 **Building payment infrastructure for Chile & LatAm**  
-Present: Product Manager Transfers @ [Cleo] · Santiago, Chile 🇨🇱 · ago 2026 - now
+Present: Product Manager Payments @ [Cleo] · Santiago, Chile 🇨🇱 · ago 2026 - now
 
 ---
 
